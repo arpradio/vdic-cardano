@@ -11,7 +11,7 @@ This repository hosts the **developer toolkit** for the VDIC specification:
 - **CLI utilities**
 - **Documentation & examples**
 
-VDIC enables **trustless, verifiable off-chain storage** for Cardano dApps backed by **IPFS clusters**, **DIDs/VCs**, and **asset-based access control**.
+VDIC-Cardano enables **trustless, verifiable off-chain storage** for Cardano dApps backed by **IPFS clusters**, **DIDs/VCs**, and **asset-based access control**.
 
 ---
 
@@ -27,7 +27,7 @@ VDIC enables **trustless, verifiable off-chain storage** for Cardano dApps backe
 ---
 
 ## ✨ What is VDIC?
-**VDIC (Verifiable Decentralized IPFS Clusters)** defines a standard for connecting Cardano dApps to decentralized storage with **cryptographic verification** and **configurable access**.
+**This VDIC (Verifiable Decentralized IPFS Clusters)** implementation defines a standard for connecting Cardano dApps to decentralized storage with **cryptographic verification** and **configurable access**.
 
 **Core ideas**
 - **Verifiable Data Integrity** — CIDs + proofs (CAR/blocks/Merkle/zk options)
