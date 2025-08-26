@@ -2,7 +2,7 @@
 **Verifiable Decentralized IPFS Clusters for Cardano — SDKs, Tools & Docs**
 
 [![status](https://img.shields.io/badge/status-draft--v1.0.0-64748b.svg)](#)
-[![license](https://img.shields.io/badge/license-MIT--2.0-22c55e.svg)](LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-22c55e.svg)](LICENSE)
 [![ci](https://img.shields.io/badge/ci-gh--actions-3b82f6.svg)](#)
 
 This repository hosts the **developer toolkit** for the VDIC specification:
