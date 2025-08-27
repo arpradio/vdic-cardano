@@ -6,10 +6,9 @@
 [![ci](https://img.shields.io/badge/ci-gh--actions-3b82f6.svg)](#)
 
 This repository hosts the **developer resourcces** for the VDIC specification:
-- **Examples** (TypeScript/JavaScript, Python)
+- **Specification** 
 - **Gateway & verification libraries**
-- **CLI utilities**
-- **Documentation & examples**
+- **Documentation & examples** (TypeScript/JavaScript, Python)
 
 VDIC-Cardano enables **trustless, verifiable off-chain storage** for Cardano dApps backed by **IPFS clusters**, **DIDs/VCs**, and **asset-based access control**.
 
