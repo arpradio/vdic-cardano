@@ -5,8 +5,8 @@
 [![license](https://img.shields.io/badge/license-MIT-22c55e.svg)](LICENSE)
 [![ci](https://img.shields.io/badge/ci-gh--actions-3b82f6.svg)](#)
 
-This repository hosts the **developer toolkit** for the VDIC specification:
-- **SDKs** (TypeScript/JavaScript, Python)
+This repository hosts the **developer resourcces** for the VDIC specification:
+- **Examples** (TypeScript/JavaScript, Python)
 - **Gateway & verification libraries**
 - **CLI utilities**
 - **Documentation & examples**
@@ -16,10 +16,9 @@ VDIC-Cardano enables **trustless, verifiable off-chain storage** for Cardano dAp
 ---
 
 ## 🔗 Quick Links
-- **Spec**: `docs/spec.md` (VDIC General Specification)
-- **API**: `docs/api.md` (endpoints, request/response, auth)
-- **Integration Guide**: `docs/integration.md` (end-to-end flows)
-- **Security**: `docs/security.md` (keys, proofs, revocation)
+- **Spec**: `docs/spec.md` (VDIC General Specification) - In Progress
+- **Integration Guide**: `docs/integration.md` (end-to-end flows)  - In Progress
+- **Security**: `docs/security.md` (keys, proofs, revocation)  - In Progress
 - **Examples**: `examples/` (web + node demos)
 
 > If you’re here to build: jump to **[Quick Start](#-quick-start)** or **[Usage Examples](#-usage-examples)**.
