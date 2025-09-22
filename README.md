@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/badge/license-MIT-22c55e.svg)](LICENSE)
 [![ci](https://img.shields.io/badge/ci-gh--actions-3b82f6.svg)](#)
 
-This repository hosts the **developer resourcces** for the VDIC specification:
+This repository hosts the **developer resources** for the VDIC specification:
 - **Specification** 
 - **Gateway & verification libraries**
 - **Documentation & examples** (TypeScript/JavaScript, Python)
