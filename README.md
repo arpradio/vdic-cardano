@@ -24,7 +24,7 @@ VDIC-Cardano enables **trustless, verifiable off-chain storage** for Cardano dAp
 
 ---
 
-## ✨ What is VDIC?
+## ✨ What is VDIC-Cardano?
 **This VDIC (Verifiable Decentralized IPFS Clusters)** implementation defines a standard for connecting Cardano dApps to decentralized storage with **cryptographic verification** and **configurable access**.
 
 **Core ideas**
